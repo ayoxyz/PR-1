@@ -1,0 +1,1 @@
+const btnNav = document.querySelector("menu")
